@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Matcher</string>
+    <string name="terms_of_use">Kullanım Sözleşmesi</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="consent_text">Giriş yaparak "%1$s" ve "%2$s" kabul etmiş olursunuz.</string>
+    <string name="login_title">Tekrar Hoş geldin!</string>
+    <string name="login_subtitle">Seni gördüğümüze sevindik. Lütfen hesap bilgilerini gir.</string>
+    <string name="email">E-posta</string>
+    <string name="password">Şifre</string>
+    <string name="login_button">Giriş Yap</string>
+    
+    <!-- Wallet -->
+    <string name="wallet_title">Cüzdanım</string>
+    <string name="token_balance">%1$d Jeton</string>
+    <string name="wallet_description">Kalan bakiyenizi jeton olarak kullanabilirsiniz.</string>
+    <string name="discount_code">İndirim Kodu</string>
+    <string name="apply">Uygula</string>
+    <string name="buy_more_tokens">Daha fazla jeton satın al</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Kamera ile çekilen fotoğraflar için -->
+    <external-path name="external_files" path="." />
+    
+    <!-- Uygulama cache dizini -->
+    <cache-path name="cache" path="." />
+    
+    <!-- Uygulama files dizini -->
+    <files-path name="files" path="." />
+    
+    <!-- External storage -->
+    <external-files-path name="external_files_path" path="." />
+    
+    <!-- External cache -->
+    <external-cache-path name="external_cache_path" path="." />
+    
+    <!-- Media storage -->
+    <external-media-path name="external_media_path" path="." />
+</paths>

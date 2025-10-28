@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="16dp"
+    android:height="16dp"
+    android:viewportWidth="16"
+    android:viewportHeight="16">
+    <!-- First checkmark (blue) -->
+    <path
+        android:strokeColor="@color/primaryColor"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M2,8l2.5,2.5L9,5"/>
+    <!-- Second checkmark (blue) -->
+    <path
+        android:strokeColor="@color/primaryColor"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M5,8l2.5,2.5L12,5"/>
+</vector>
+
