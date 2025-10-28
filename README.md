@@ -25,11 +25,21 @@ cd Matcher
 
 Detaylı dokümantasyon için [docs/](./docs/) klasörünü inceleyin:
 
-- [Kurulum Kılavuzu](./docs/SETUP.md)
-- [Proje Mimarisi](./docs/ARCHITECTURE.md)
-- [API Entegrasyonu](./docs/API_INTEGRATION.md)
-- [UI Bileşenleri](./docs/UI_COMPONENTS.md)
+### 🏗️ Temel Dokümantasyon
+- [Kurulum Kılavuzu](./docs/SETUP.md) - Projeyi nasıl kuracağınız
+- [Proje Mimarisi](./docs/ARCHITECTURE.md) - Genel mimari yapı
+- [UI Bileşenleri](./docs/UI_COMPONENTS.md) - Custom UI bileşenleri
+
+### 🔌 Entegrasyonlar
+- [API Entegrasyonu](./docs/API_INTEGRATION.md) - Backend API bağlantıları
+- [Socket.IO](./docs/SOCKET_INTEGRATION.md) - Gerçek zamanlı mesajlaşma
+- [Ödeme Sistemi](./docs/PAYMENT_INTEGRATION.md) - Google Play Billing entegrasyonu
+
+### 🎨 UI/UX
 - [Toast Sistemi](./docs/TOAST_USAGE_EXAMPLES.md) - Bildirim sistemi kullanım kılavuzu
+
+### 📖 Tüm Dokümantasyonlar
+Tüm mevcut dokümantasyonlar için [Dokümantasyon İndeksi](./docs/README.md) sayfasına bakın.
 
 ## 🏗️ Proje Yapısı
 
