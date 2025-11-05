@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Matcher</string>
+    <string name="app_name">Duble</string>
     <string name="terms_of_use">Kullanım Sözleşmesi</string>
     <string name="privacy_policy">Gizlilik Politikası</string>
     <string name="consent_text">Giriş yaparak "%1$s" ve "%2$s" kabul etmiş olursunuz.</string>

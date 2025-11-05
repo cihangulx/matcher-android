@@ -23,7 +23,7 @@ Matcher uygulaması **Activity + Compose** mimarisini kullanır ve **Repository 
 ## 📁 Klasör Yapısı
 
 ```
-app/src/main/java/com/matcher/matcher/
+app/src/main/java/com.flort.evlilik.
 ├── main/                      # Ana uygulama sınıfları
 │   ├── MainActivity.kt        # Ana aktivite
 │   └── MatcherApplication.kt  # Uygulama sınıfı

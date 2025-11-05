@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.matcher.matcher"
+    namespace = "com.flort.evlilik"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.matcher.matcher"
+        applicationId = "com.flort.evlilik"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

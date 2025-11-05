@@ -44,7 +44,7 @@ Tüm mevcut dokümantasyonlar için [Dokümantasyon İndeksi](./docs/README.md) 
 ## 🏗️ Proje Yapısı
 
 ```
-app/src/main/java/com/matcher/matcher/
+app/src/main/java/com.flort.evlilik.
 ├── main/                    # Ana uygulama sınıfları
 │   ├── MainActivity.kt      # Ana aktivite
 │   └── MatcherApplication.kt # Uygulama sınıfı
